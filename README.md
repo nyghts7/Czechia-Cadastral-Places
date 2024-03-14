@@ -4,9 +4,9 @@ Updated data for populated places in Czechia.
 
 Comparison with previous data:
 
-previous data had 6,254 populated places, for a total population of 10,511,389
+previous data had 6,254 populated places, for a total population of 10,511,389 (data from 2021)
 
-new data has 14,461 populated places, for a total populated of 10,414,021
+new data has 14,461 populated places, for a total populated of 10,414,021 (data from 2011)
 
 the difference in population is due to the difference in census years used, as data for cadastal places is more outdated, but is far more representative of the breakdown of people in Czechia, hence its use
 
@@ -23,3 +23,5 @@ https://github.com/tyrasd/overpass-turbo
  
 
 actual data is found in the czechia-json.txt file
+
+Total time spent: ~10 hours
