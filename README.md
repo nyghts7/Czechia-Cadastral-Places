@@ -1,5 +1,6 @@
 Updated data for populated places in Czechia.
 
+
 Comparison with previous data:
 
 previous data had 6,254 populated places, for a total population of 10,511,389
