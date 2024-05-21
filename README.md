@@ -1,3 +1,5 @@
+please credit me (nyghts) for anything you use from this
+
 Updated data for populated places in Czechia.
 
  
